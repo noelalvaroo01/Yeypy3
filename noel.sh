@@ -115,7 +115,7 @@ echo $ku"["$me"12"$ku"]"$i" LACAK LOKASI"
 echo $i"["$me"13"$i"]"$ku" METU"
 echo
 echo $pur"Ôò¡ÔöÇ["$pur"$pur"]"
-read -p"Ôò¦ÔöÇ>> " pil
+read -p"Ôò¦ÔöÇ>> "Milih o cok"
 
 if [ $pil = 1 ]
 then
