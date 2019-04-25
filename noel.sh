@@ -114,8 +114,8 @@ echo $ku"["$me"11"$ku"]"$i" YOUTUBE-DL"
 echo $ku"["$me"12"$ku"]"$i" LACAK LOKASI"
 echo $i"["$me"13"$i"]"$ku" METU"
 echo
-echo $pur"Ôò¡ÔöÇ["$pur"$pur"]"
-read -p"Ôò¦ÔöÇ>> "Milih o cok"
+echo $pur"Ôò¡ÔöÇ["$pur"Milih o Cok"$pur"]"
+read -p"Ôò¦ÔöÇ>> " pil
 
 if [ $pil = 1 ]
 then
