@@ -94,8 +94,8 @@ clear
 echo
 echo $pur"==================="$cy" ==================="
 echo $i"Ôûê"$pu"  AUTHOR  :  NOEL  "$i"                   Ôûê"
-echo $i"Ôûê"$pu"  WhatsApp:  085785650199"$i"                Ôûê"
-echo $i"Ôûê"$pu"  GMAIL   :  Noelalvaroo@gmail.com"$i"    Ôûê"
+echo $i"Ôûê"$pu"  WhatsApp:  0895395095986"$i"                Ôûê"
+echo $i"Ôûê"$pu"  GMAIL   :  Inessiapriselly@gmail.com"$i"    Ôûê"
 echo $i"Ôûê"$pu"  FACEBOOK : Noel Alvaroo"$i"                Ôûê"
 echo $pur"==================="$cy" ==================="
 echo
@@ -153,8 +153,8 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/tikuskecil/multi-bruteforce-facebook.git
-cd multi-bruteforce-facebook
+git clone https://github.com/hanesaki404/mbf.git
+cd mbf
 python2 MBF.py
 fi
 
