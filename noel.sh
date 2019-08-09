@@ -13,7 +13,7 @@ echo
 clear
 echo
 echo $red"          Tool akan di install dalam waktu 5 detik"
-echo $red"            Tools  By Noel Ananda n Full Repack"   
+echo $red"            harap sabar menunggu yaa sayang :v("   
 sleep 1
 echo '''\a
 \033[34;1m                              _
@@ -32,7 +32,7 @@ echo
 echo
 echo
 echo $red"         Tool akan di install dalam waktu 5 detik"
-echo $red"            Tool By Noel Ananda"
+echo $red"            harap sabar menunggu yaa sayang :v"
 sleep 1
 echo '''\a
 \033[32;1m                             ____
@@ -92,14 +92,14 @@ echo '''\a
 sleep 1
 clear
 echo
-echo $pur"==================="$cy" ==================="
-echo $i"Ôûê"$pu"  AUTHOR  :  NOEL  "$i"                   Ôûê"
-echo $i"Ôûê"$pu"  WhatsApp:  085785650199"$i"                Ôûê"
-echo $i"Ôûê"$pu"  GMAIL   :  Inessiapriselly@gmail.com"$i"    Ôûê"
-echo $i"Ôûê"$pu"  FACEBOOK : Noel Alvaroo"$i"                Ôûê"
-echo $pur"==================="$cy" ==================="
+echo $pur"==================="$cy" ============================="
+echo $i"Ôûê"$pu"  AUTHOR  :  Noel Alvaroo  "$i"                    Ôûê"
+echo $i"Ôûê"$pu"  WhatsApp:  0895395xxxxx"$i"                Ôûê"
+echo $i"Ôûê"$pu"  GMAIL   :  inessiapriselly@gmail.com"$i"     Ôûê"
+echo $i"Ôûê"$pu"  INSTAGRAM : NoelXploitz"$i"                 Ôûê"
+echo $pur"==================="$cy" ============================="
 echo
-echo $cy"Menu e suu:"
+echo $cy"MeNu BRUTEPORCE NeWS:"
 echo $ku"["$me"1"$ku"]"$i" REPORT FB"
 echo $ku"["$me"2"$ku"]"$i" BRUTE PORCE"
 echo $ku"["$me"3"$ku"]"$i" BRUTE FORCE FB CRACKER"
@@ -112,10 +112,11 @@ echo $ku"["$me"9"$ku"]"$i" SPAM CALL"
 echo $ku"["$me"10"$ku"]"$i" SPAM WHATSHAPP"
 echo $ku"["$me"11"$ku"]"$i" YOUTUBE-DL"
 echo $ku"["$me"12"$ku"]"$i" LACAK LOKASI"
-echo $i"["$me"13"$i"]"$ku" METU"
+echo $ku"["$me"13"$ku"]"$i" SPAM SMS BRUTAL TERBARU"
+echo $i"["$me"14"$i"]"$ku" EXIT"
 echo
-echo $pur"Ôò¡ÔöÇ["$pur"$pur"]"
-read -p"Ôò¦ÔöÇ>> " Milih O cok"
+echo $pur"Ôò¡ÔöÇ["$pur"Masukkan pilihan anda"$pur"]"
+read -p"Ôò¦ÔöÇ>> " pil
 
 if [ $pil = 1 ]
 then
@@ -153,8 +154,8 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/hanesaki404/mbf
-cd mbf
+git clone https://github.com/tikuskecil/multi-bruteforce-facebook.git
+cd multi-bruteforce-facebook
 python2 MBF.py
 fi
 
@@ -244,6 +245,17 @@ fi
 if [ $pil = 13 ]
 then
 clear
+figlet -f slant "W A I T"|lolcat
+sleep 1
+git clone https://github.com/TERMUXID3/brutal-sms
+cd brutal-sms
+python2 run.py
+fi
+
+
+if [ $pil = 14 ]
+then
+clear
 figlet -f slant "W A I T"|Ulolcat
 sleep 2
 echo $cy"Terima Kasih sudah mengunakan Tools ini"
@@ -252,12 +264,12 @@ echo $i"Silahkan di pakai semoga bermanfaat Buat anda"
 sleep 2
 echo $pur"Bila Ada Kesalahan Anda Bisa Nanya Melalui Via"
 sleep 2
-echo $ku"Facebook :"$i" Noel Alvaro"
-echo $ku"Instagram  :"$i" Noel_Ananda"
-echo $ku"WhatsApp :"$i" 0895395095986"
+echo $ku"Facebook :"$i" Noel Alvaroo"
+echo $ku"YouTube  :"$i" YouTube NWL"
+echo $ku"WhatsApp :"$i" 0887882xxxx"
 sleep 2
-echo $pur"Suwun sampun ndamel Tools Kulo Cak "
+echo $pur"Terima kasih Yang Sudah Support dengan Tools ini"
 sleep 2
-echo $pur"Follow Igkulah Cok"
+echo $pur"SUBSCRIBE MY CHANNEL { YOUTUBE NWL }"
 exit
 fi
